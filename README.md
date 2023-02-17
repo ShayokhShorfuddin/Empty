@@ -18,7 +18,7 @@ Let's imagine we want to display 'Cab'. The sequence will be -
 ```
 Woah that looks weird. Lets break it down...<br>
 <br>
-1. Notice that the sequence is using ```.``` to seperate the keywords.
+1. Notice that the sequence is using ```.``` to seperate the keywords.<br>
 2. The first keyword is ```^emt```. The keyword 'emt' has a length of 3, which referes to the alphabetic position 3 (c). And the ```^``` symbol is used to 'Capitalize' the alphabet.
 3. The second keyword is just an empty space. Whitespace is technically 'empty'. Whitespace referes to the alphabetic position 1 (a).
 4. FInally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
