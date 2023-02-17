@@ -17,4 +17,5 @@ Let's imagine we want to display 'Cab'. The sequence will be -
 ^emt. .mt
 ```
 Woah that looks weird. Lets break it down...<br>
-Our expected output is 'Cab'. 
+<br>
+1. Notice that the sequence is using ```.``` to seperate the keywords. 
