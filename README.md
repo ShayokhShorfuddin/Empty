@@ -22,7 +22,7 @@ Woah that looks weird. Lets break it down...<br>
 3. The second keyword is just an empty space. Whitespace is technically 'empty'. Whitespace referes to the alphabetic position 1 (a).
 4. FInally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
 
-Let's spice things up! We will display ```Hi```. The sequence will be -
+Let's spice things up! We will display 'Hi'. The sequence will be -
 ```python
 ^empty mpt. empty empt
 ```
