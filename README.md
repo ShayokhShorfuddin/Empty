@@ -16,5 +16,5 @@ Let's imagine we want to display 'Cab'. The sequence will be -
 ```python
 ^emt. .mt
 ```
-Woah that looks weird. Lets break it down..
+Woah that looks weird. Lets break it down...<br>
 Our expected output is 'Cab'. 
