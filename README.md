@@ -6,4 +6,5 @@ Empty uses only 26 alphabetic characters to produce a sentence. It does not deal
 ### Keywords
 ```python
 'empty' 'empt' 'mpty' 'emt' 'mpt' 'mty' 'mt'  // Lowercase Keywords
+'^empty' '^empt' '^mpty' '^mpt' '^mty' '^mt' // Uppercase Keywords
 ```
