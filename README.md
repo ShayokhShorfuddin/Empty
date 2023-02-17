@@ -19,19 +19,25 @@ Let's imagine we want to display 'Cab'. The sequence will be -
 Woah that looks weird. Lets break it down...<br>
 1. Notice that the sequence is using ```.``` to seperate the keywords.
 2. The first keyword is ```^emt```. The keyword 'emt' has a length of 3, which referes to the alphabetic position 3 (c). And the ```^``` symbol is used to 'Capitalize' the alphabet.
-3. The second keyword is just an empty space. Whitespace is technically 'empty'. Whitespace referes to the alphabetic position 1 (a).
-4. FInally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
+3. The second keyword is just a single empty space. Whitespace is technically 'empty'. Single whitespace referes to the alphabetic position 1 (a).
+4. Finally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
 
 Let's spice things up! We will display 'Hi'. The sequence will be -
 ```python
-^empty mpt. empty empt
+^empty mpt.empty empt
 ```
 1. Notice that there are more than 1 keyword. Length of 'empty' = 5 and 'mpt' = 3. So 5 + 3 = 8 (h). And the ^ at the beginning to Uppercase the 'h'.
 2. In the second part, length of 'empty' = 5 and 'empt' = 4. So 5 + 3 = 9 (i).
 
 
+### Whitespace
+We use whitespace seperater words in a sentence right? Well, how can we represent a whitespace in 'Empty'? It's simple. In order too display a whitespace, there must absolutly nothing within 2 sperators. Look at the example below -
 
-
+We want to display 'A bee'. The sequence will be -
+```python
+^ ..mt.empty.empty
+```
+1. In the first part, there is ```^``` and a whitespace. Whitespace refer 
 
 
 
