@@ -43,7 +43,8 @@ We want to display 'A bee'. The sequence will be -
 
 ## Hello World
 At last, here is the classic 'Hello World' using 'Empty' - 
-  
-
+```python
+^empty emt.empty.empty empty mt.empty empty mt.empty empty empty..^empty empty empty empty emt.empty empty empty.empty empty empty emt. empty empty mt. empt
+```
 
 
