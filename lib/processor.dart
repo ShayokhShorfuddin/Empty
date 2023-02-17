@@ -3,7 +3,7 @@ import 'package:chalkdart/chalk.dart';
 
 String alphabets = 'abcdefghijklmnopqrstuvwxyz';
 List keywords = ['empty', 'empt', 'mpty', 'emt', 'mpt', 'mty', 'mt'];
-List upcasedKeywords = ['^empty', '^empt', '^mpty', '^mpt', '^mty', '^mt'];
+List upcasedKeywords = ['^empty', '^empt', '^mpty', '^emt', '^mpt', '^mty', '^mt'];
 
 String determiner(int index, {required bool upcased}) {
   index--;
