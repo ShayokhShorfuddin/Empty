@@ -37,7 +37,8 @@ We want to display 'A bee'. The sequence will be -
 ```python
 ^ ..mt.empty.empty
 ```
-1. In the first part, there is ```^``` and a whitespace. Whitespace refer 
+1. In the first part, there is ```^``` and a single whitespace. Single whitespace refers to 1 (a) and ^ for Capitalization (A).
+2. Here comes the interesting part. Notice that there is nothing between two '.' in the second part. That's how we can display a white
 
 
 
