@@ -26,9 +26,8 @@ Let's spice things up! We will display ``Hi```. The sequence will be -
 ```python
 ^empty mpt. empty empt
 ```
-1. Notice that there are more than 1 keyword. Length of 'empty' = 5 and 'mpt' = 3 
-2. The second keyword is just an empty space. Whitespace is technically 'empty'. Whitespace referes to the alphabetic position 1 (a).
-3. FInally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
+1. Notice that there are more than 1 keyword. Length of 'empty' = 5 and 'mpt' = 3. So 5 + 3 = 8 (h). And the ^ at the beginning to Uppercase the 'h'.
+2. In the second part, length of 'empty' = 5 and 'empt' = 4. So 5 + 3 = 9 (i).
 
 
 
