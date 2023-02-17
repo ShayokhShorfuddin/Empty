@@ -21,3 +21,20 @@ Woah that looks weird. Lets break it down...<br>
 2. The first keyword is ```^emt```. The keyword 'emt' has a length of 3, which referes to the alphabetic position 3 (c). And the ```^``` symbol is used to 'Capitalize' the alphabet.
 3. The second keyword is just an empty space. Whitespace is technically 'empty'. Whitespace referes to the alphabetic position 1 (a).
 4. FInally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
+
+Let's spice things up! We will display ``Hi```. The sequence will be -
+```python
+^empty mpt. empty empt
+```
+1. Notice that there are more than 1 keyword. Length of 'empty' = 5 and 'mpt' = 3 
+2. The second keyword is just an empty space. Whitespace is technically 'empty'. Whitespace referes to the alphabetic position 1 (a).
+3. FInally, the third keyword is `mt` with a length of 2, refering to position 2 (b).
+
+
+
+
+
+
+
+
+
