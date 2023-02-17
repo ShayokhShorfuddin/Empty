@@ -10,3 +10,9 @@ In order to display a character, user must pick a keyword and the keyword's leng
 'empty' 'empt' 'mpty' 'emt' 'mpt' 'mty' 'mt'  // Lowercase Keywords
 '^empty' '^empt' '^mpty' '^emt' '^mpt' '^mty' '^mt' // Uppercase Keywords
 ```
+
+### Examples
+Let's imagine we want to display 'Cab'. The sequence will be -
+```python
+^emt. .mt
+```
