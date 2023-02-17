@@ -5,5 +5,5 @@ Empty is an esoteric language designed to convert a sequence of keywords into a 
 Empty uses only 26 alphabetic characters to produce a sentence. It does not deal with symbols, number or any other character.
 ### Keywords
 ```python
-'empty' 'empt' 'mpty' 'emt' 'mpt' 'mty' 'mt'
+'empty' 'empt' 'mpty' 'emt' 'mpt' 'mty' 'mt'  // Lowercase Keywords
 ```
