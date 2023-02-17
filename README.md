@@ -8,7 +8,7 @@ In order to display a character, the user must pick a keyword and the keyword's 
 ### Keywords
 ```python
 'empty' 'empt' 'mpty' 'emt' 'mpt' 'mty' 'mt'  // Lowercase Keywords
-'^empty' '^empt' '^mpty' '^emt' '^mpt' '^mty' '^mt' // Uppercase Keywords
+'^empty' '^empt' '^mpty' '^emt' '^mpt' '^mty' '^mt'  // Uppercase Keywords
 ```
 
 ### Examples
